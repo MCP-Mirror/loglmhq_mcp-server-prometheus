@@ -4,6 +4,8 @@ MCP server for interacting with Prometheus metrics and data.
 
 This is a TypeScript-based MCP server that implements a Prometheus API interface. It provides a bridge between Claude and your Prometheus server through the Model Context Protocol (MCP).
 
+<a href="https://glama.ai/mcp/servers/y7b3qba8jy"><img width="380" height="200" src="https://glama.ai/mcp/servers/y7b3qba8jy/badge" alt="mcp-server-prometheus MCP server" /></a>
+
 ## Demo
 
 ![demo](/demo.png)
